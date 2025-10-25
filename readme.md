@@ -15,7 +15,7 @@ This project focuses on clean structure, utility-first styling, and responsive g
 
 ## 🌐 Live
 
-[Click here to see the live website](https://thegetosuguru.github.io/rinterio/)  
+[Click here to see the live website](https://refatalhasankaif.github.io/rinterio/)
 
 ---
 
